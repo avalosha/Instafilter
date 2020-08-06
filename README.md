@@ -1,2 +1,2 @@
-# UserDefaults
-Learn how to save user settings and data for later use.
+# Instafilter
+Make a photo manipulation program using Core Image filters and a UISlider.
